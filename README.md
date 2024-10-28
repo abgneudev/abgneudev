@@ -40,6 +40,9 @@ I've worked with
   <span style="display: inline-block; padding: 2px; border-radius: 8px; overflow: hidden;">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow" height="22"/>
   </span>
+  <span style="display: inline-block; padding: 2px; border-radius: 5px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" height="22"/>
+  </span>
   <span style="display: inline-block; padding: 2px; border-radius: 8px; overflow: hidden;">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" height="22"/>
   </span>
