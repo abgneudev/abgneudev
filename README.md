@@ -8,9 +8,6 @@ I've spent 3+ years shipping 19 software projects across global enterprises, sta
 - 🚀 Drove 2x faster shipping cycles by eliminating design-to-code handoffs
 - 🏆 Won Impact Award at AWS Women in AI Hackathon 2025
 
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/abhinavgupta0210/)
-- 🖼️ Check out my design work: [Portfolio](https://abgneudev.github.io/Portfolio/)
-
 ### What I Build
 
 I specialize in accessible design systems (WCAG 2.2 AA compliant) and scalable component libraries. Whether it's a React web tool, a Flutter mobile app, or a full-stack AI platform with FastAPI and LangGraph, I take ideas from Figma to production.
