@@ -12,8 +12,6 @@ I've spent 3+ years shipping 19 software projects across global enterprises, sta
 
 I specialize in accessible design systems (WCAG 2.2 AA compliant) and scalable component libraries. Whether it's a React web tool, a Flutter mobile app, or a full-stack AI platform with FastAPI and LangGraph, I take ideas from Figma to production.
 
-#### Navigate my repositories
-
 Work:
 - [Survey Tool](https://github.com/abgneudev/meditation-personality-quiz) (Typeform clone that saved $25/month, Next.js & Supabase)
 
