@@ -12,6 +12,21 @@ I've spent 3+ years shipping 19 software projects across global enterprises, sta
 
 I specialize in accessible design systems (WCAG 2.2 AA compliant) and scalable component libraries. Whether it's a React web tool, a Flutter mobile app, or a full-stack AI platform with FastAPI and LangGraph, I take ideas from Figma to production.
 
+#### Navigate my repositories
+
+Work:
+- [Survey Tool](https://github.com/abgneudev/meditation-personality-quiz) (Typeform clone that saved $25/month, Next.js & Supabase)
+
+Academic projects:
+- [CourseGPT](https://github.com/abgneudev/LearningAssistant) (RAG-powered AI learning platform with LangGraph, FastAPI & Streamlit)
+- [App Prototype](https://github.com/abgneudev/Lab_Results) (Redesign of Epic's Labs Results User Flow)
+
+Personal hacks:
+- [Portfolio](https://abgneudev.github.io/Portfolio/) (My design work is here!)
+- [Work Journal](https://github.com/abgneudev/WorkJournal) (tool to track my work, Next.js & Supabase)
+- [Offline Payments](https://github.com/abgneudev/verifi) (Mobile AI Hackathon at MIT by Cactus (YC), Nothing, Hugging Face)
+
+
 ### Tech Stack I Ship With
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
